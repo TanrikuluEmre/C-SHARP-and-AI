@@ -10,7 +10,7 @@ namespace fine_tuning_desktop
     public partial class Form1 : Form
     {
         // OpenAI API bilgileri
-        string apiKey = "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";
+        string apiKey = "API KEY";
         string apiUrl = "https://api.openai.com/v1/engines/ada/completions";
         string fineTuningModelId;
 
@@ -25,11 +25,11 @@ namespace fine_tuning_desktop
             string datasetPath = "C:\\Users\\kanar\\AppData\\Local\\Programs\\Microsoft VS Code\\veri-seti.json";
             var datasetContent = await File.ReadAllTextAsync(datasetPath);
 
-            // API isteði için HttpClient oluþturma
+            // API isteÃ°i iÃ§in HttpClient oluÃ¾turma
             var httpClient = new HttpClient();
             httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
 
-            // Fine-tuning için veri setini Ada'ya gönderme
+            // Fine-tuning iÃ§in veri setini Ada'ya gÃ¶nderme
             var fineTuningRequest = new
             {
                 examples = JsonConvert.DeserializeObject(datasetContent)
@@ -56,14 +56,14 @@ namespace fine_tuning_desktop
 
         private async void button1_Click_1(object sender, EventArgs e)
         {
-            // API isteði için HttpClient oluþturma
+            // API isteÃ°i iÃ§in HttpClient oluÃ¾turma
             var httpClient = new HttpClient();
             httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
 
-            // Kullanýcýdan girdi alýnmasý
+            // KullanÃ½cÃ½dan girdi alÃ½nmasÃ½
             string userMessage = textBox1.Text;
 
-            // API isteði için requestBody hazýrlama
+            // API isteÃ°i iÃ§in requestBody hazÃ½rlama
             var requestBody = new
             {
                 model = fineTuningModelId,
@@ -75,17 +75,17 @@ namespace fine_tuning_desktop
             var jsonRequest = JsonConvert.SerializeObject(requestBody);
             var content = new StringContent(jsonRequest, Encoding.UTF8, "application/json");
 
-            // API isteðini gönderme
+            // API isteÃ°ini gÃ¶nderme
             var response = await httpClient.PostAsync(apiUrl, content);
             var jsonResponse = await response.Content.ReadAsStringAsync();
 
-            // API yanýtýný te
+            // API yanÃ½tÃ½nÃ½ te
             if (response.IsSuccessStatusCode)
             {
                 dynamic responseObject = JsonConvert.DeserializeObject(jsonResponse);
                 string generatedText = responseObject.choices[0].text;
 
-                // Chatbot yanýtýný düzenleme
+                // Chatbot yanÃ½tÃ½nÃ½ dÃ¼zenleme
                 generatedText = generatedText.Trim();
                 generatedText = char.ToUpper(generatedText[0]) + generatedText.Substring(1);
                 generatedText = generatedText.Replace("\n", "\nAda: ");
