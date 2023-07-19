@@ -15,7 +15,7 @@ namespace CHATGPT_DESKTOP
         {
             InitializeComponent();
         }
-        private const string apiKey = "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";
+        private const string apiKey = "API KEY";
         private const string modelEndpoint = "https://api.openai.com/v1/chat/completions";
 
         private void Form1_Load(object sender, EventArgs e)
