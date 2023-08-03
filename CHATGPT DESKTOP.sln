@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHATGPT DESKTOP", "CHATGPT DESKTOP\CHATGPT DESKTOP.csproj", "{705D89C5-E9E8-4747-85A9-34FB3865EF2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COPY.AI 2", "COPY.AI 2\COPY.AI 2.csproj", "{EDE45995-AF93-4AF4-A503-6CB3D8CF369A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705D89C5-E9E8-4747-85A9-34FB3865EF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705D89C5-E9E8-4747-85A9-34FB3865EF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705D89C5-E9E8-4747-85A9-34FB3865EF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705D89C5-E9E8-4747-85A9-34FB3865EF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE45995-AF93-4AF4-A503-6CB3D8CF369A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE45995-AF93-4AF4-A503-6CB3D8CF369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE45995-AF93-4AF4-A503-6CB3D8CF369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE45995-AF93-4AF4-A503-6CB3D8CF369A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D672019B-1066-4A1A-BC2B-6DDA92745944}
+	EndGlobalSection
+EndGlobal

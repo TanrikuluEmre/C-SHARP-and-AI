@@ -1,0 +1,58 @@
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\bin\Debug\CHATGPT DESKTOP.exe.config
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\bin\Debug\CHATGPT DESKTOP.exe
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\bin\Debug\CHATGPT DESKTOP.pdb
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.AssemblyReference.cache
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT_DESKTOP.Form1.resources
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT_DESKTOP.Properties.Resources.resources
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.GenerateResource.cache
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.CoreCompileInputs.cache
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.CopyComplete
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.exe
+C:\Users\Recai TANRIKULU\Desktop\C# ÇALIŞMALARIM\CHATGPT DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.pdb
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\CHATGPT DESKTOP.exe.config
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\CHATGPT DESKTOP.exe
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\CHATGPT DESKTOP.pdb
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\OpenAI_API.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Buffers.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Memory.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\OpenAI_API.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Buffers.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Memory.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.AssemblyReference.cache
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT_DESKTOP.Form1.resources
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT_DESKTOP.Properties.Resources.resources
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.GenerateResource.cache
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.CoreCompileInputs.cache
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.csproj.CopyComplete
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.exe
+C:\Users\kanar\Downloads\CHATGPT - OPEN AI DESKTOP\CHATGPT DESKTOP\obj\Debug\CHATGPT DESKTOP.pdb
